@@ -1,0 +1,3 @@
+Customer ID,Teller ID,Priority,Arrival Time,Service Duration,Waiting Time,Served Time,Departure Time
+0,0,0,37200,20,0,37200,37220
+1,1,0,38400,32,0,38400,38432

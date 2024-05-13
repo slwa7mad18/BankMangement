@@ -1,0 +1,5 @@
+Simulation Has been Started!
+* INIT :: Teller with ID (0) was added as initial teller.
+* INIT :: Teller with ID (1) was added as initial teller.
+* INIT :: Teller with ID (2) was added as initial teller.
+Simulation Has been Ended!
